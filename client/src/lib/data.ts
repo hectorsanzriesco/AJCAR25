@@ -117,7 +117,7 @@ export const contactInfo = {
   phone: "+34 912 345 678",
   email: "info@ajcar25.com",
   hours: [
-    "Lunes a Viernes: 9:00 - 19:00",
+    "Lunes a Viernes: 8:00 - 19:00",
     "Sábados: 9:00 - 14:00",
     "Domingos: Cerrado"
   ]
