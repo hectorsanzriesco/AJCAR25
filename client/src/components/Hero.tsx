@@ -28,8 +28,8 @@ export default function Hero() {
             </Button>
             <Button 
               size="lg" 
-              variant="outline" 
-              className="border-2 border-white text-white hover:bg-white/10 font-bold px-8 py-6"
+              variant="secondary" 
+              className="border-2 border-white bg-white text-red-600 hover:bg-gray-200 font-bold px-8 py-6"
               asChild
             >
               <Link href="/services">NUESTROS SERVICIOS</Link>
