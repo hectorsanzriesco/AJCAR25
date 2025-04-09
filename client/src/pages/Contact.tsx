@@ -86,7 +86,7 @@ export default function Contact() {
                 <h3 className="text-2xl font-bold mb-6">Nuestra Ubicación</h3>
                 <div className="w-full h-64 bg-gray-200 rounded-lg overflow-hidden">
                   <iframe 
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.6280487899583!2d-3.70365268491957!3d40.41681077936447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287d6da3df33%3A0xaa5cfe4312c7a7de!2sPuerta%20del%20Sol%2C%20Madrid%2C%20Spain!5e0!3m2!1sen!2sus!4v1623151330813!5m2!1sen!2sus" 
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2983.123602342531!2d-4.7241777233915855!3d41.63100937111006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd4712d42b288c27%3A0xc0d300ed4acd0aa!2sAv.%20Valle%20de%20Esgueva%2C%2014%2C%2047011%20Valladolid!5e0!3m2!1ses!2ses!4v1713096820906!5m2!1ses!2ses" 
                     width="100%" 
                     height="100%" 
                     style={{ border: 0 }} 

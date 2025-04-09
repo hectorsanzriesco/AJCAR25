@@ -113,7 +113,7 @@ export const testimonials = [
 ];
 
 export const contactInfo = {
-  address: "Calle Ejemplo, 123, 28001 Madrid, España",
+  address: "Av. Valle de Esgueva, 14, 47011 Valladolid, España",
   phone: "+34 912 345 678",
   email: "info@ajcar25.com",
   hours: [
