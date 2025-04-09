@@ -114,7 +114,7 @@ export const testimonials = [
 
 export const contactInfo = {
   address: "Av. Valle de Esgueva, 14, 47011 Valladolid, España",
-  phone: "+34 912 345 678",
+  phone: "983 25 56 16",
   email: "info@ajcar25.com",
   hours: [
     "Lunes a Viernes: 8:00 - 19:00",
