@@ -21,7 +21,7 @@ export default function Hero() {
           <div className="flex flex-col sm:flex-row justify-center gap-4">
             <Button 
               size="lg" 
-              className="bg-red-600 hover:bg-red-700 text-white font-bold px-8 py-6"
+              className="bg-red-600 hover:bg-red-700 text-white font-bold px-8 py-6 w-full sm:w-auto text-base"
               asChild
             >
               <Link href="/contact">SOLICITAR PRESUPUESTO</Link>
@@ -29,7 +29,7 @@ export default function Hero() {
             <Button 
               size="lg" 
               variant="secondary" 
-              className="border-2 border-white bg-white text-red-600 hover:bg-gray-200 font-bold px-8 py-6"
+              className="border-2 border-white bg-white text-red-600 hover:bg-gray-200 font-bold px-8 py-6 w-full sm:w-auto text-base"
               asChild
             >
               <Link href="/services">NUESTROS SERVICIOS</Link>
